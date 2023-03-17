@@ -1,0 +1,38 @@
+{
+  "emplyees": [
+    {
+      "firstName": "gayan",
+      "lastName": "kumara",
+      "email": "gayan@gmail.com",
+      "date": "2023-03-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "codlantic",
+      "experience": 2,
+      "package": 20000,
+      "id": 1
+    },
+    {
+      "firstName": "pradeep",
+      "lastName": "sanjaya",
+      "email": "sanjaya@gmail.com",
+      "date": "2023-03-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "virtusa",
+      "experience": 1,
+      "package": 10000,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
